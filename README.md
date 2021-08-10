@@ -1,1 +1,5 @@
-# white-paper-v2
+# Winding Tree Decentralized Travel Marketplace 2.0 White Paper
+
+The idea of a decentralized travel marketplace was conceived by our team back in 2016, inspired by our experience working on other projects in travel. Later that year we published a [manifesto](https://www.linkedin.com/pulse/travel-industrys-invisible-battle-maksim-izmaylov), where we described the need for an intermediary-free environment, a free market controlled by its participants. We envisioned that such a platform would not just reduce fees and remove entry barriers, but also promote trade and innovation. The manifesto was well-received by the industry professionals, and we further developed our ideas in the [original Winding Tree white paper](https://github.com/windingtree/white-paper/blob/main/white-paper.pdf).
+
+We released the pilot version of the [Winding Tree Marketplace](https://marketplace.windingtree.com) in 2020, but we did not achieve the desired adoption rate. The goal of this paper is to analyze why that happened, identify concrete issues, and outline a roadmap that would make the Marketplace the ultimate travel distribution platform.
